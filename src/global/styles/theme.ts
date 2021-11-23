@@ -17,7 +17,6 @@ export default {
     text_dark: "#000000",
     background: "#F0F2F5",
   },
-
   fonts: {
     regular: "Poppins_400Regular",
     medium: "Poppins_500Medium",
